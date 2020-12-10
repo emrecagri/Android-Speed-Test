@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         speedoMeterView =findViewById(R.id.speedometerview);
-        Button testet = findViewById(R.id.test_et);
+        final Button testet = findViewById(R.id.test_et);
 
 
         testet.setOnClickListener(new View.OnClickListener() {
@@ -35,6 +35,8 @@ public class MainActivity extends AppCompatActivity {
 
                 SpeedTestTask speedTestTask = new SpeedTestTask();
                 speedTestTask.execute();
+
+                testet.setText("Tekrar Test Et");
 
             }
         });

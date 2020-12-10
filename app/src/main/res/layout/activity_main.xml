@@ -22,7 +22,7 @@
 
     <Button
         android:id="@+id/test_et"
-        android:layout_width="88dp"
+        android:layout_width="wrap_content"
         android:layout_height="48dp"
         android:text="Test Et"
         app:layout_constraintBottom_toBottomOf="parent"
