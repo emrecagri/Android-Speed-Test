@@ -1,6 +1,6 @@
 # Android-Speed-Test
 
-<img src="Screenshot1.png" height="500"> <img src="Screenshot2.png" height="500"> <img src="Screenshot3.png" height="500"> <img src="Screenshot4.png" height="500"> <img src="Screenshot5.png" height="500"> 
+<img src="Screenshotgif.gif" height="500"> <img src="Screenshot1.png" height="500"> <img src="Screenshot2.png" height="500"> <img src="Screenshot3.png" height="500"> <img src="Screenshot4.png" height="500"> <img src="Screenshot5.png" height="500"> 
 
 ---
 
